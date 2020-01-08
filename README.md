@@ -35,8 +35,7 @@ how much deterioration will lead us to
 ## Dataset
 
 We’re using the dataset provided in the
-https://www.kaggle.com/rajanand/mort
-ality​. We’ll only use features related to
+https://www.kaggle.com/rajanand/mortality​. We’ll only use features related to
 environmental factors.
 
 ## Solution
